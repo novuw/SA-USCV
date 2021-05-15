@@ -1,0 +1,19 @@
+{
+  "name": "histvia2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gunzip-file": "^0.1.1",
+    "material-table": "^1.69.3",
+    "neat-csv": "^6.0.1",
+    "node-fetch": "^2.6.1",
+    "node-notifier": "^9.0.1",
+    "prompt-sync": "^4.2.0"
+  }
+}

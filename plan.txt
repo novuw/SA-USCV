@@ -1,0 +1,3 @@
+Take total items of paper, divide by 20, round up and use that as pages to request
+Iterate through all at same time and save OCR data for for each
+Perform Sentiment analysis on new Files
